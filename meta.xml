@@ -1,0 +1,7 @@
+<meta>
+    <info authorserial="88157F99037E0C10FEC8C27D5A8BFFA4" name="" type="util" author="The_GTA" version="1.0" description="Test resource for managing stuff"></info>
+    <script type="shared" src="math_plane_2d.lua"></script>
+    <script type="shared" src="mathtest.lua" />
+    <script type="client" src="mathrender_client.lua" />
+    <script type="server" src="mathrender_server.lua" />
+</meta>
